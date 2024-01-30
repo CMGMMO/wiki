@@ -1,3 +1,3 @@
 # Table of contents
 
-* [wiki](README.md)
+* [📜 เกี่ยวกับพวกเรา](README.md)
